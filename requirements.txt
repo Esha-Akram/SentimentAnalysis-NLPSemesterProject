@@ -1,0 +1,10 @@
+transformers: This library is used for working with pre-trained transformer models like BERT.
+torch: This is the main library for working with deep learning models in PyTorch.
+numpy: A library for numerical computing in Python.
+pandas: A library for data manipulation and analysis.
+seaborn: A data visualization library based on Matplotlib.
+matplotlib: A plotting library for creating visualizations in Python.
+sklearn: Scikit-learn, a machine learning library in Python, used for model selection and evaluation.
+textwrap: A utility module for wrapping and formatting text.
+torch.nn and torch.optim: Modules from PyTorch for defining neural network layers and optimization algorithms.
+torch.utils.data: A module in PyTorch for creating custom datasets and data loaders.
